@@ -1,0 +1,17 @@
+commit 0c68fc76bd5104727d54f18de00ce282aadd6646 (HEAD -> master)
+Author: VClude <vclude@gmail.com>
+Date:   Wed Dec 12 14:34:11 2018 +0700
+
+    this is third commit
+
+commit 9fafeba3c1d389f04cbda1595b870d961a51a65f
+Author: VClude <vclude@gmail.com>
+Date:   Wed Dec 12 14:32:25 2018 +0700
+
+    This is my second commit
+
+commit d9ae14dc76b94af7d5067327436b05113cd1d213
+Author: VClude <vclude@gmail.com>
+Date:   Wed Dec 12 14:30:43 2018 +0700
+
+    my first project commit
